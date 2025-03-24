@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  siyuan:
+  - apiVersion: v2
+    appVersion: v3.1.25
+    created: "2025-03-24T13:05:44.345281339+03:00"
+    description: SiYuan is a privacy-first personal knowledge management system, support
+      fine-grained block-level reference and Markdown WYSIWYG
+    digest: a713ce9ba70c738df0877d38183e073e46a1bb5701e6b07a84e1999fc7ba4169
+    name: siyuan
+    type: application
+    urls:
+    - siyuan-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-24T13:05:44.344688203+03:00"
