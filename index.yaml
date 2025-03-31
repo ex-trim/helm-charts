@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  perlite:
+  - apiVersion: v2
+    appVersion: 1.5.9
+    created: "2025-03-31T16:48:18.77955667+03:00"
+    description: A web based markdown viewer optimized for Obsidian Notes
+    digest: 66a451699d6fda34fcb58c68d8b8924c7aca520cd4a23f7253cd7c641bad314f
+    name: perlite
+    type: application
+    urls:
+    - perlite-0.1.0.tgz
+    version: 0.1.0
   siyuan:
   - apiVersion: v2
     appVersion: v3.1.25
-    created: "2025-03-24T14:04:42.568452971+03:00"
+    created: "2025-03-31T16:48:18.781439739+03:00"
     description: SiYuan is a privacy-first personal knowledge management system, support
       fine-grained block-level reference and Markdown WYSIWYG
     digest: b119a743d1393437722191ea4c7b7d67dfb6d1485321a024410d81b2b3047fe7
@@ -14,7 +25,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: v3.1.25
-    created: "2025-03-24T14:04:42.568009946+03:00"
+    created: "2025-03-31T16:48:18.780141216+03:00"
     description: SiYuan is a privacy-first personal knowledge management system, support
       fine-grained block-level reference and Markdown WYSIWYG
     digest: a713ce9ba70c738df0877d38183e073e46a1bb5701e6b07a84e1999fc7ba4169
@@ -23,4 +34,4 @@ entries:
     urls:
     - siyuan-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-24T14:04:42.567461961+03:00"
+generated: "2025-03-31T16:48:18.778923283+03:00"
